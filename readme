@@ -1,0 +1,13 @@
+CMake Examples
+Author: Leiming Yu
+        ylm@ece.neu.edu
+		Northeastern University, Boston, MA 02115
+
+[1] integrate_libs
+link program with libs
+
+[2] chapter5-1_GmockCMake
+example from "https://www.johnlamp.net/cmake-tutorial.html"
+
+[3] unitest
+customized gtest based on [2]
