@@ -1,0 +1,35 @@
+Start testing: Jun 23 21:59 EDT
+----------------------------------------------------------
+1/1 Testing: ToDoTest
+1/1 Test: ToDoTest
+Command: "/home/leiming/Dropbox/CMake/cmake_tutorials/chapter5-1/ToDoCore/unit_test/ToDoTest"
+Directory: /home/leiming/Dropbox/CMake/cmake_tutorials/chapter5-1/ToDoCore/unit_test
+"ToDoTest" start time: Jun 23 21:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 4 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 4 tests from ToDoTest
+[ RUN      ] ToDoTest.constructor_createsEmptyList
+[       OK ] ToDoTest.constructor_createsEmptyList (0 ms)
+[ RUN      ] ToDoTest.addTask_threeTimes_sizeIsThree
+[       OK ] ToDoTest.addTask_threeTimes_sizeIsThree (0 ms)
+[ RUN      ] ToDoTest.getTask_withOneTask_returnsCorrectString
+[       OK ] ToDoTest.getTask_withOneTask_returnsCorrectString (0 ms)
+[ RUN      ] ToDoTest.getTask_withThreeTasts_returnsCorrectStringForEachIndex
+[       OK ] ToDoTest.getTask_withThreeTasts_returnsCorrectStringForEachIndex (0 ms)
+[----------] 4 tests from ToDoTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ToDoTest" end time: Jun 23 21:59 EDT
+"ToDoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 23 21:59 EDT
