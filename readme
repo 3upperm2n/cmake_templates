@@ -1,7 +1,7 @@
 CMake Examples
 Author: Leiming Yu
         ylm@ece.neu.edu
-		Northeastern University, Boston, MA 02115
+        Northeastern University, Boston, MA 02115
 
 [1] integrate_libs
 link program with libs
