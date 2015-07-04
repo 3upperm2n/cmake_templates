@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+#no cygwin assumption
 set(CMAKE_LEGACY_CYGWIN_WIN32 0)
 
 project("gtest example")
