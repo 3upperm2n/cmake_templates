@@ -15,3 +15,9 @@ customized gtest based on [2]
 [4] cuda_lib_unittest
 compile kernels to libs, link them to the final executable
 run unit test on the kernels
+
+
+## useful notes 
+<br>
+[1] cmake variables <br>
+https://cmake.org/Wiki/CMake_Useful_Variables<br>
