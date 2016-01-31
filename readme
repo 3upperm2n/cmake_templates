@@ -16,8 +16,11 @@ customized gtest based on [2]
 compile kernels to libs, link them to the final executable
 run unit test on the kernels
 
+[5] exmaple_cpp
+templates to run cpp projects
 
-## useful notes 
-<br>
-[1] cmake variables <br>
-https://cmake.org/Wiki/CMake_Useful_Variables<br>
+#-----------------------------------------------------------------------------#
+# useful notes 
+#-----------------------------------------------------------------------------#
+[1] cmake variables
+https://cmake.org/Wiki/CMake_Useful_Variables
